@@ -33,6 +33,9 @@
   "eslintConfig": {
 
   },
+  "devServer": {
+    "allowedHosts": "all"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
